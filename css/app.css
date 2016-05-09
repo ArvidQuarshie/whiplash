@@ -9,11 +9,11 @@ background-color: black;
 }
 .landingpage{height:100%;
     width:100%;
-    background-image: url(../images/landing7.jpg);
+    background-image: url(../images/landing8.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    color:black;
+    color:white;
     text-align:center;
 }
 .about{
@@ -27,6 +27,7 @@ background-color: black;
     width:100%;
     background-color: white;
     overflow: hidden;
+    text-align: center;
 
 }
 .media{
