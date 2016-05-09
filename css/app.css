@@ -26,5 +26,10 @@ background-color: black;
     height:100%;
     width:100%;
     background-color: white;
+    overflow: hidden;
 
+}
+.media{
+    height:50%;
+    width:100%;
 }
