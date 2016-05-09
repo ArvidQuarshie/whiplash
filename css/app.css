@@ -1,3 +1,4 @@
+h1,h2,h3,h4,h5,h6{  font-family: 'Jura'}
 body{ height:100;width:100%}
 .mycontainer{
 
@@ -8,9 +9,15 @@ background-color: black;
 }
 .landingpage{height:100%;
     width:100%;
-    background-image: url(/images/landing3.jpg);
+    background-image: url(../images/landing7.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-
+    color:black;
+    text-align:center;
+}
+.about{
+    height:50%;
+    width:100%;
+    text-align: center;
 }
