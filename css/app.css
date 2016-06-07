@@ -34,6 +34,10 @@ background-color: black;
     background-color: white;
     overflow: hidden;
     text-align: center;
+    background-image: url(../images/open-door.jpg);
+    background-repeat: no-repeat;
+    background-position: center;'
+    '
 
 }
 .media{
