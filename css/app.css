@@ -24,6 +24,7 @@ background-color: black;
     background-image: url(../images/about.jpg);
     background-repeat : no-repeat;
     background-position: center;
+    background-size: cover;
 }
 .videos{
 
@@ -48,6 +49,7 @@ background-color: black;
     width:100%;
     opacity: 0.9;
     background-color: black;
+    color:white;
 
 
 
