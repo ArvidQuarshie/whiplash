@@ -37,7 +37,7 @@ background-color: black;
     background-image: url(../images/open-door.jpg);
     background-repeat: no-repeat;
     background-position: center;'
-    '
+    background-attachment: fixed;
 
 }
 .media{
