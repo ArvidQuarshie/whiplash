@@ -45,6 +45,9 @@ background-color: black;
     width:100%;
     background-color: black;
     color:white;
+    background-image: url(../images/tour.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 .overlayabout{
