@@ -18,9 +18,12 @@ background-color: black;
     background-attachment: fixed;
 }
 .about{
-    height:80%;
+    height:100%;
     width:100%;
     text-align: center;
+    background-image: url(../images/about.jpg);
+    background-repeat : no-repeat;
+    background-position: center;
 }
 .videos{
 
@@ -38,4 +41,14 @@ background-color: black;
 .dates{
     height:50%;
     width:100%;
+}
+
+.overlayabout{
+    height:100%;
+    width:100%;
+    opacity: 0.9;
+    background-color: black;
+
+
+
 }
