@@ -25,6 +25,7 @@ background-color: black;
     background-repeat : no-repeat;
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
 }
 .videos{
 
@@ -42,6 +43,7 @@ background-color: black;
 .dates{
     height:50%;
     width:100%;
+    background-color: black;
 }
 
 .overlayabout{
