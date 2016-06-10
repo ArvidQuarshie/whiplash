@@ -16,6 +16,7 @@ background-color: black;
     color:white;
     text-align:center;
     background-attachment: fixed;
+    margin-top: auto;
 }
 .about{
     height:100%;
@@ -26,6 +27,7 @@ background-color: black;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    margin-top: auto;
 }
 .videos{
 
@@ -38,6 +40,8 @@ background-color: black;
     background-repeat: no-repeat;
     background-position: center;'
     background-attachment: fixed;
+
+    margin:auto;
 
 }
 .media{
@@ -62,6 +66,7 @@ background-color: black;
     background-image: url(../images/tour.jpg);
     background-position: center;
     background-size: cover;
+    margin-top: auto;
 }
 
 .overlayabout{
