@@ -29,6 +29,13 @@ background-color: black;
     background-attachment: fixed;
     margin-top: auto;
 }
+
+.tracks{
+    height:100%;
+    width:100%;
+    background-color: black;
+
+}
 .videos{
 
     height:100%;
