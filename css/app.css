@@ -306,3 +306,10 @@ html {
 .rightpic {
     margin-top: 5%;
 }
+
+.footer {
+    height:20%;
+    width:100%;
+    background-color: black;
+    color:white;
+}
