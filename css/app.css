@@ -86,6 +86,7 @@ background-color: black;
     opacity: 0.9;
     background-color: black;
     color:white;
+  
 
 
 
@@ -506,4 +507,13 @@ input:focus, textarea:focus {
 
 #categories .categories-post-grid .category li .post-meta a:hover {
     color: #ccc
+}
+
+.headingwhip {
+    margin-top: 25%;
+    
+}
+
+.abouttext {
+    margin-top: 5%;
 }
