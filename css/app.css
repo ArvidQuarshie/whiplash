@@ -185,7 +185,7 @@ html {
     border: #30aed6 solid 3px;
 }
 .headingwhip {
-    margin-top: 25%;
+    margin-top: 20%;
 }
 .abouttext {
     margin-top: 5%;
@@ -317,4 +317,8 @@ html {
 
 .links {
     align-content:  right;
+}
+
+.navz {
+    background-color: black;
 }
