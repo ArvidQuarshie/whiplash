@@ -312,4 +312,9 @@ html {
     width:100%;
     background-color: black;
     color:white;
+    align-content: center;
+}
+
+.links {
+    align-content:  right;
 }
