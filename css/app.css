@@ -312,11 +312,13 @@ html {
     width:100%;
     background-color: black;
     color:white;
-    align-content: center;
+text-align: center;
 }
 
 .links {
-    align-content:  right;
+    text-align: center;
+    align-content: center;
+    
 }
 
 .navz {
